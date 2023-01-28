@@ -40,5 +40,5 @@ while True:
             window['todo'].update(value=values['todos'][0])
         case sg.WINDOW_CLOSED:
             break
-
+print("Bye")
 window.close()
